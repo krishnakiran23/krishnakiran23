@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋 I'm Krishna Kiran
 
-<!--
-**krishnakiran23/krishnakiran23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | LLMs | Agentic AI | RAG | LangGraph
 
-Here are some ideas to get you started:
+Currently building production AI applications using
+• LangChain
+• LangGraph
+• OpenAI
+• Azure AI Foundry
+• AWS Bedrock
+• FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 New York
+
+---
+
+## What I'm working on
+
+- Multi-Agent AI Systems
+- Deep Research Agents
+- Enterprise RAG
+- MCP Servers
+- AI Evaluation Pipelines
+
+---
+
+## Tech Stack
+
+Python
+FastAPI
+LangChain
+LangGraph
+OpenAI
+Azure
+AWS
+Docker
+Kubernetes
+PostgreSQL
+Redis
+React
+
+---
+
+## Featured Projects
+
+### AI Research Assistant
+
+Production-ready multi-agent research assistant
+
+Tech:
+LangGraph
+OpenAI
+Tavily
+FastAPI
+Redis
+
+---
+
+### Enterprise RAG
+
+Document intelligence platform
+
+Features
+
+- PDF Parsing
+- Vector Search
+- Reranking
+- Citations
+- Streaming
+
+---
+
+## GitHub Stats
+
+(stats cards)
+
+---
+
+## Connect
+
+LinkedIn
+
+Portfolio
+
+Email
