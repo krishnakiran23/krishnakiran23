@@ -1,183 +1,210 @@
-<h1 align="center">Hi 👋, I'm Krishna Kiran Sristi</h1>
+# Hi there, I'm Krishna Kiran Sristi 👋
 
 <h3 align="center">
 AI Engineer • Machine Learning Engineer • Data Engineer
 </h3>
 
 <p align="center">
-Building production-grade AI systems powered by LLMs, Agentic AI, RAG, and cloud-native MLOps.
+Building production-grade AI systems powered by <strong>Large Language Models</strong>, <strong>Agentic AI</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and <strong>Cloud-Native MLOps</strong>.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/krishna-kiran-sristi-7085681bb/">LinkedIn</a> •
+<a href="https://krishna-kiran-sristi-portfolio.vercel.app/">Portfolio</a> •
+<a href="https://leetcode.com/u/Krishnakiran75/">LeetCode</a> •
+<a href="mailto:sristikiran203@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer with 3+ years of experience designing intelligent software systems across machine learning, data engineering, and generative AI.
+I'm an AI Engineer passionate about designing intelligent systems that bridge machine learning research with production software engineering.
 
-My work focuses on building scalable AI platforms that combine LLMs, Retrieval-Augmented Generation (RAG), multi-agent orchestration, and cloud-native infrastructure to solve real-world enterprise problems.
+My work focuses on building scalable AI applications using Large Language Models, Retrieval-Augmented Generation (RAG), multi-agent orchestration, cloud infrastructure, and modern MLOps practices.
 
-Currently interested in:
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🔄 LangGraph Multi-Agent Systems
-- ☁️ AWS & Azure AI
-- ⚙️ Production MLOps
-- 🚀 AI Infrastructure
+I enjoy solving real-world problems through scalable backend systems, intelligent automation, and end-to-end machine learning pipelines.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Focus
 
-### 🤖 AI Research Assistant *(In Progress)*
+* 🤖 Agentic AI Systems
+* 🧠 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 🔄 LangGraph Multi-Agent Workflows
+* ⚡ FastAPI & AI Backend Engineering
+* ☁️ AWS & Azure AI Services
+* 📊 Production MLOps
+* 🚀 AI Infrastructure & Deployment
 
-A production-grade multi-agent research assistant powered by LangGraph capable of:
+---
 
-- Planning
-- Deep Web Research
-- Multi-agent reasoning
-- Report generation
-- Memory
-- Streaming
-- Citations
+# 🏆 Featured Projects
 
-**Tech**
+### 🤖 AI Research Assistant *(Coming Soon)*
 
-Python • LangGraph • LangChain • OpenAI • FastAPI • Redis • Docker
+A production-grade multi-agent AI platform capable of planning, researching, reasoning, and generating comprehensive reports using modern LLM workflows.
+
+**Highlights**
+
+* Multi-Agent Architecture
+* LangGraph Workflows
+* Deep Research
+* Memory
+* Streaming Responses
+* Tool Calling
+* Citation Generation
+* FastAPI Backend
+* Docker Deployment
 
 ---
 
 ### 🏡 Real Estate Valuation & Market Segmentation
 
-End-to-end cloud-native MLOps pipeline for automated real estate valuation.
+End-to-end cloud-native MLOps pipeline for automated property valuation and market segmentation.
 
-Highlights
+**Highlights**
 
-- Azure MLflow
-- SageMaker Deployment
-- Random Forest
-- XGBoost
-- Streamlit Dashboard
-- Automated CI/CD
+* Azure MLflow
+* AWS SageMaker
+* Random Forest
+* XGBoost
+* Streamlit Dashboard
+* Automated Deployment
 
 ---
 
 ### 🌍 Air Quality Prediction Platform
 
-Production-ready ML platform predicting PM2.5 concentrations using
-
-- H2O AutoML
-- FastAPI
-- AWS
-- MLflow
-- Docker
+Production-ready machine learning platform for PM2.5 prediction using H2O AutoML, AWS infrastructure, FastAPI deployment, and MLflow experiment tracking.
 
 ---
 
 ### 🌐 Personal Portfolio
 
-Modern responsive portfolio showcasing projects, experience and technical blogs.
+A responsive portfolio showcasing my experience, technical projects, research, and achievements.
+
+🔗 https://krishna-kiran-sristi-portfolio.vercel.app/
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
-Python • SQL • Java • C++ • JavaScript • TypeScript
+* Python
+* SQL
+* Java
+* C++
+* JavaScript
+* TypeScript
 
-### AI / Machine Learning
+### AI & Machine Learning
 
-LangChain
-
-LangGraph
-
-OpenAI
-
-PyTorch
-
-TensorFlow
-
-Scikit-Learn
-
-XGBoost
-
-Hugging Face
-
-RAG
-
-LLMs
-
-Prompt Engineering
-
-Agentic AI
+* LangChain
+* LangGraph
+* OpenAI
+* Hugging Face
+* PyTorch
+* TensorFlow
+* Scikit-Learn
+* XGBoost
+* RAG
+* Prompt Engineering
+* Agentic AI
 
 ### Backend
 
-FastAPI
-
-Flask
-
-REST APIs
-
-Microservices
+* FastAPI
+* Flask
+* REST APIs
+* Microservices
 
 ### Databases
 
-PostgreSQL
-
-MongoDB
-
-MySQL
-
-Neo4j
-
-FAISS
-
-ChromaDB
-
-Redis
+* PostgreSQL
+* MongoDB
+* MySQL
+* Neo4j
+* FAISS
+* ChromaDB
+* Redis
 
 ### Cloud & DevOps
 
-AWS
-
-Azure
-
-Docker
-
-MLflow
-
-GitHub Actions
-
-CI/CD
+* AWS
+* Azure
+* Docker
+* MLflow
+* GitHub Actions
+* CI/CD
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- Enterprise AI Systems
-- AI Evaluation
-- Model Context Protocol (MCP)
-- AI Agents at Scale
-- Kubernetes
-- Distributed AI Infrastructure
-
----
-
-## 📈 GitHub Statistics
-
-(Stats Cards)
+* Enterprise AI Systems
+* AI Evaluation Frameworks
+* Model Context Protocol (MCP)
+* Distributed AI Systems
+* Kubernetes
+* AI Infrastructure Engineering
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub Stats
 
-LinkedIn
+<p align="center">
 
-Portfolio
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnakiran23&show_icons=true&theme=github_dark&hide_border=true"/>
 
-Email
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakiran23&layout=compact&theme=github_dark&hide_border=true"/>
 
-LeetCode
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=krishnakiran23&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Open Source
+
+I'm passionate about building production-quality AI software, contributing to the open-source ecosystem, and continuously learning modern AI engineering practices.
+
+My interests include:
+
+* Large Language Models
+* Agentic AI
+* LangGraph
+* LangChain
+* MLOps
+* Backend Engineering
+* Distributed AI Systems
+* Cloud-Native AI Applications
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email**
+**[sristikiran203@gmail.com](mailto:sristikiran203@gmail.com)**
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/krishna-kiran-sristi-7085681bb/
+
+🌐 **Portfolio**
+https://krishna-kiran-sristi-portfolio.vercel.app/
+
+💻 **GitHub**
+https://github.com/krishnakiran23
+
+🧩 **LeetCode**
+https://leetcode.com/u/Krishnakiran75/
+
+---
+
+> *"Building intelligent systems that transform ideas into production-ready AI applications."*
