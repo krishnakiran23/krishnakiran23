@@ -153,40 +153,8 @@ A responsive portfolio showcasing my experience, technical projects, research, a
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnakiran23&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakiran23&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=krishnakiran23&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🌱 Open Source
-
-I'm passionate about building production-quality AI software, contributing to the open-source ecosystem, and continuously learning modern AI engineering practices.
-
-My interests include:
-
-* Large Language Models
-* Agentic AI
-* LangGraph
-* LangChain
-* MLOps
-* Backend Engineering
-* Distributed AI Systems
-* Cloud-Native AI Applications
-
----
 
 ## 🤝 Let's Connect
 
